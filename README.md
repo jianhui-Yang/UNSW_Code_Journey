@@ -10,7 +10,6 @@ This space serves as a technical portfolio for my academic projects and my evolu
 I bridge the gap between hardware-level logic and high-level AI application development. My background combines rigorous academic training with professional experience in the AI industry.
 
 - **Academic Background**: B.Eng. in Electronic Information Science and Technology (HFUT).
-- **Professional Experience**: Former Senior Auditor of Large Models (D4) at Jingshuo Data Technology.
 - **Current Status**: MIT Student at UNSW (Class of 2028) 🇦🇺.
 
 ---
