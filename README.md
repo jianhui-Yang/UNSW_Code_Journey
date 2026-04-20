@@ -1,40 +1,47 @@
-# UNSW MIT Code Journey - Python & AI Engineering
+# 🚀 UNSW Master of Information Technology Journey
 
-Welcome! This repository documents my technical growth and project milestones as I pursue my **Master of Information Technology (MIT)** at the **University of New South Wales (UNSW)**. 
+Welcome to my central repository. I am a graduate student at the **University of New South Wales (UNSW)**, specializing in the Master of Information Technology program. 
 
-My goal is to transition from foundational programming to building production-ready AI applications.
-
----
-
-## Career Aspirations
-- [ ] Master core Python development and software engineering best practices.
-- [ ] Deep dive into Machine Learning algorithms and data pipelines.
-- [ ] Establish a professional career as an **AI Application Engineer**.
+This space serves as a technical portfolio for my academic projects and my evolution into a professional AI Application Engineer.
 
 ---
 
-##  Learning Progress Log
+## 👨‍💻 About Me
+I bridge the gap between hardware-level logic and high-level AI application development. My background combines rigorous academic training with professional experience in the AI industry.
 
-### 🗓️ Phase 1: Environment Setup & Python Fundamentals
-- **Day 1**: 
-  - [x] Configured **VS Code + Anaconda** development environment.
-  - [x] Established **Git & GitHub** remote synchronization workflow.
-  - [x] Practiced `f-string` formatting and basic arithmetic operations.
-  - [x] Implemented the first AI-interfaced script (`day1_chat.py`).
+- **Academic Background**: B.Eng. in Electronic Information Science and Technology (HFUT).
+- **Professional Experience**: Former Senior Auditor of Large Models (D4) at Jingshuo Data Technology.
+- **Current Status**: MIT Student at UNSW (Class of 2028) 🇦🇺.
 
 ---
 
-##  Tech Stack
-- **Languages**: Python 3.10+
-- **Tools**: VS Code, Anaconda, Git/GitHub
-- **Focus Areas**: AI Application Development, Data Science (Coming soon...)
+## 🎯 Career Vision: AI Application Engineer
+I am dedicated to mastering the full lifecycle of AI products:
+- **Data Engineering**: Building robust pipelines for model training.
+- **Machine Learning**: Implementing state-of-the-art architectures.
+- **Cloud/Ops**: Deploying and scaling AI solutions in production environments.
 
 ---
 
-##  Contact & Status
-- **GitHub**: [jianhui-Yang](https://github.com/jianhui-Yang)
-- **Status**: Relocating to **Sydney, Australia** in May 2026 🇦🇺
-- **Academic Goal**: Completing Master's at UNSW by 2028.
+## 🛠️ Technical Arsenal
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Core Focus), C/C++, SQL |
+| **AI/ML** | LLM Auditing, Prompt Engineering, Model Evaluation |
+| **Workflow** | Git/GitHub, Anaconda, Linux Environment |
+| **Academic** | Signal Processing, Electronic Systems |
 
 ---
-> "The best way to predict the future is to create it." - Peter Drucker
+
+## 🏛️ Education Timeline
+- **Master of Information Technology** | *University of New South Wales* | May 2026 – 2028
+- **B.Eng. in Electronic Information Science** | *Hefei University of Technology* | Completed
+
+---
+
+## 📮 Get in Touch
+- **GitHub**: [@jianhui-Yang](https://github.com/jianhui-Yang)
+- **Location**: Sydney, Australia (Relocating May 2026)
+
+---
+> "Building the bridge between data and intelligent reality."
