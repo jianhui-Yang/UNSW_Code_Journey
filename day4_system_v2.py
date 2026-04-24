@@ -16,7 +16,8 @@ while True:
         print(f"{player_name} might not be in good form right now.")
 
     status = input("Do you want to close the system?\n(YES/NO): ")
-    if status == "YES":
+    if status.upper().strip() == "YES":
         break
+
 print("   SYSTEM IS CLOSED!   ")
 print("=" * 40)
