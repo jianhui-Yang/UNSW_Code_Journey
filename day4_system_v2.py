@@ -1,5 +1,5 @@
 print("=" * 40)
-print("   CS2 PLAYER ASSESSMENT SYSTEM v1.0   ")
+print("   CS2 PLAYER ASSESSMENT SYSTEM v2.0   ")
 print("=" * 40)
 
 while True:
